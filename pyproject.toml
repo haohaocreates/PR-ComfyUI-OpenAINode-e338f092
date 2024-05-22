@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-openainode"
+description = "A simply node for hooking in to openAI API based servers via comfyUI"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Electrofried/ComfyUI-OpenAINode"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-OpenAINode"
+Icon = ""
